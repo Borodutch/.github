@@ -1,11 +1,11 @@
 ## Todorant repositories
-[Todorant-RN](https://github.com/Borodutch/todorant-rn)
-[Todorant-backend](https://github.com/Borodutch/todorant-backend)
-[Todorant-frontend](https://github.com/Borodutch/todorant-frontend)
-[Todorant-desktop](https://github.com/Borodutch/todorant-desktop)
-[Todorant-extension](https://github.com/Borodutch/todorant-browser-extension)
-[Todorant-react](https://github.com/Borodutch/todorant-react)
-[Todorant-design](https://github.com/Borodutch/todorant-design)
+1. [Todorant-RN](https://github.com/Borodutch/todorant-rn)
+2. [Todorant-backend](https://github.com/Borodutch/todorant-backend)
+3. [Todorant-frontend](https://github.com/Borodutch/todorant-frontend)
+4. [Todorant-desktop](https://github.com/Borodutch/todorant-desktop)
+5. [Todorant-extension](https://github.com/Borodutch/todorant-browser-extension)
+6. [Todorant-react](https://github.com/Borodutch/todorant-react)
+7. [Todorant-design](https://github.com/Borodutch/todorant-design)
 <!--
 
 **Here are some ideas to get you started:**
